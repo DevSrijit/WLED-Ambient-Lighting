@@ -1,0 +1,11 @@
+{
+  "orientation": {
+    "flip_horizontal": true,
+    "flip_vertical": true,
+    "rotate": 270,
+    "start_corner": "top_left",
+    "serpentine": true
+  },
+  "matrix_width": 12,
+  "matrix_height": 6
+}
