@@ -71,15 +71,7 @@ Customize your setup via the `wled_config.json` file:
 ```
 
 - **Orientation Settings**: Adjust to align with your LED matrix's physical layout.
-- **Matrix Dimensions**: Modify 
-
-matrix_width
-
- and 
-
-matrix_height
-
- to match your LED setup.
+- **Matrix Dimensions**: Modify `matrix_width` and `matrix_height` to match your LED setup.
 
 ## How It Works
 
